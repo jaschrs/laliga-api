@@ -6,8 +6,7 @@
 [Help](#help)
 
 <div className="flex flex-col">
-  <p>Deprecated</p>
-  <p>Player Data may or may not work</p>
+  <p>Deprecated as FotMob significantly altered their internal API structure <br></br> Anyone is welcome to fix JSON parsing.</p>
 </div>
 
 [![Unofficial](https://img.shields.io/badge/Unofficial%20API-Not%20affiliated%20with%20FotMob%20Or%20LaLiga-red?style=for-the-badge)](#legal-notice)
